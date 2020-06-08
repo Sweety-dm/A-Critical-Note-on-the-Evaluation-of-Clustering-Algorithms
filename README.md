@@ -14,8 +14,8 @@
 - **exp1\_synthetic\_data.py:** corresponding to the experimental implementation of Section III - ***Synthetic Dataset: A Step Forward***;
 - **exp2\_height\_weight.py:** corresponding to the experimental implementation of Section IV - ***Real-World Datasets: Overlapping Data***;
 - **exp3\_accelerometer\_climb\_descent\_stairs.py:** corresponding to the experimental implementation of Section V - ***Real-World Datasets: Splitting Data***;
-- **exp4\_vertebral\_column.py:**corresponding to the experimental implementation of Section V - ***Real-World Datasets: Splitting Data***;
-- **overlap\_prob.py:**corresponding to the experimental implementation of Section VI - ***Discussion***.
+- **exp4\_vertebral\_column.py:** corresponding to the experimental implementation of Section V - ***Real-World Datasets: Splitting Data***;
+- **overlap\_prob.py:** corresponding to the experimental implementation of Section VI - ***Discussion***.
 
 
 # data
